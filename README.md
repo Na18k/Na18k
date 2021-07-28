@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, eu sou o Kainan</h1>
 <h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
 
-- 🔭 🔭 Atualmente, estou trabalhando em: [Meu próprios projetos](https://github.com/Na18k/)
+- 🔭 Atualmente, estou trabalhando em: [Meu próprios projetos](https://github.com/Na18k/)
 
-- 🌱 🌱 Atualmente estou aprendendo: **JavaScript, HTML5, CSS...**
+- 🌱 Atualmente estou aprendendo: **JavaScript, HTML5, CSS...**
 
 - 👯 Estou a colaborar em: [Ka 1223](https://github.com/Ka-1223)
 
-- 👨‍💻 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/Na18k/](https://github.com/Na18k/)
+- 👨‍💻  Todos os meus projetos estão disponíveis em: [https://github.com/Na18k/](https://github.com/Na18k/)
 
 - 📝 Eu escrevo artigos regularmente em [https://github.com/Na18k/](https://github.com/Na18k/)
 
