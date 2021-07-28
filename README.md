@@ -13,7 +13,7 @@
 
 - 📝 Eu escrevo artigos regularmente em [https://github.com/Na18k/](https://github.com/Na18k/)
 
-- 📄 Conheça minhas experiências: (Curiculo) [https://docs.google.com/document/d/1s2GJZHjtpib-nOU3Ld-KbkuzlREYSORG06BQb8qFkkE/edit?usp=sharing](https://docs.google.com/document/d/1s2GJZHjtpib-nOU3Ld-KbkuzlREYSORG06BQb8qFkkE/edit?usp=sharing)
+- 📄 Conheça minhas experiências: (Currículo) [https://docs.google.com/document/d/1s2GJZHjtpib-nOU3Ld-KbkuzlREYSORG06BQb8qFkkE/edit?usp=sharing](https://docs.google.com/document/d/1s2GJZHjtpib-nOU3Ld-KbkuzlREYSORG06BQb8qFkkE/edit?usp=sharing)
 
 - ⚡ Algo para falar: **"Não sei, nunca fui bom com palavras"**
 
