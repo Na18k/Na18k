@@ -37,8 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" /></p>
-
-
-
-
-Contibuição: https://rahuldkjain.github.io/gh-profile-readme-generator/
