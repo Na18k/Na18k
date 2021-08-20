@@ -15,7 +15,7 @@
 
 - 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/1s2GJZHjtpib-nOU3Ld-KbkuzlREYSORG06BQb8qFkkE/edit?usp=sharing)
 
-- Meu site: [Site](na18k.github.io/site/)
+- Meu site: [Site](https://na18k.github.io/site/index.html)
 
 - ⚡ Algo para falar: **"Não sei, nunca fui bom com palavras"**
 
