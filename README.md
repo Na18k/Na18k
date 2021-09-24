@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
 
-- 🔭 Atualmente, estou trabalhando em: _**CriptoKai (Alpha Version)**_
+- 🔭 Atualmente, estou trabalhando em: [_**CriptoKai (Alpha Version)**_](https://github.com/Na18k/CriptoKai)
 
 - 🌱 Atualmente estou aprendendo: **JavaScript, HTML5, CSS...**
 
