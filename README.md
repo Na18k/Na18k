@@ -38,8 +38,14 @@
 	<a href="https://discord.gg/8DGzFXjArW" target="blank">
 		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/kainan18gamer#6524" target="_blank"/>
 	</a>
-	<a href="https://discord.gg/8DGzFXjArW" target="blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://discord.gg/kainan18gamer#6524" target="_blank"/>
+	<a href="https://www.linkedin.com/in/kainan-henrique-abb073219" target="blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Kainan Henrique" target="_blank"/>
+	</a>
+	<a href="https://www.reddit.com/user/Na18k" target="blank">
+		<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Nã18" target="_blank"/>
+	</a>
+	<a href="https://open.spotify.com/user/s21v4nr5vr7q24803q0hume91?si=ac6141677bc24b99" target="blank">
+		<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Kainan Henrique" target="_blank"/>
 	</a>
 </div>
 
@@ -66,11 +72,20 @@
   </a>
   <a href="https://atom.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/atom/atom/master/resources/app-icons/stable/atom.ico" alt="Atom" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
 <div align="center"><br>
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=na18k&show_icons=true&locale=en&layout=compact&theme=dark" alt="na18k" /></p>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" /></p>
+	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=na18k&show_icons=true&locale=en&layout=compact&theme=dark" alt="na18k" />
+	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" />
+	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
+</div>
+<br>
+<div align="center">
+	<p>
+		<img src="https://img.shields.io/github/followers/Na18k.svg?style=social&label=Follow&maxAge=2592000" alt="Seguidores"/> 
+	</p>
+	<p>
+		<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> 
+	</p>
 </div>
