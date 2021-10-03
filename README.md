@@ -37,7 +37,7 @@
 	<a href="https://www.youtube.com/channel/UCB0puMgiQbC7kP9DSJbmTPw" target="blank">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="nã18" target="_blank"/>
 	</a>
-	<a href="https://discord.gg/8DGzFXjArW" target="blank">
+	<a href="https://discord.gg/nhAfXCu7JQ" target="blank">
 		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/kainan18gamer#6524" target="_blank"/>
 	</a>
 	<a href="https://www.linkedin.com/in/kainan-henrique-abb073219" target="blank">
@@ -53,29 +53,32 @@
 
 <h3 align="left">Linguagem e Ferramentas:</h3>
 
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img src="https://www.sublimetext.com/images/logo.svg" alt="Sublime Text" width="40" height="40"/>
-  </a>
-  <a href="https://notepad-plus-plus.org/" target="_blank"> 
-    <img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" width="40" height="40"/> 
-  </a>
-  <a href="https://atom.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/atom/atom/master/resources/app-icons/stable/atom.ico" alt="Atom" width="40" height="40"/> 
-  </a>
-</p>
+<div>
+  	<a href="https://www.blender.org/" target="_blank">
+    	<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40">
+ 	</a>
+  	<a href="https://www.w3.org/html/" target="_blank"> 
+    	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+  	</a> 
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
+    	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5"/> 
+  	</a> 
+  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
+  	</a> 
+  	<a href="https://www.photoshop.com/en" target="_blank"> 
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+ 	</a>
+  	<a href="https://www.sublimetext.com/" target="_blank"> 
+    	<img src="https://www.sublimetext.com/images/logo.svg" alt="Sublime Text" width="40" height="40"/>
+  	</a>
+  	<a href="https://notepad-plus-plus.org/" target="_blank"> 
+    	<img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" width="40" height="40"/> 
+  	</a>
+  	<a href="https://atom.io/" target="_blank"> 
+    	<img src="https://raw.githubusercontent.com/atom/atom/master/resources/app-icons/stable/atom.ico" alt="Atom" width="40" height="40"/> 
+  	</a>
+</div>
 
 <div align="center"><br>
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=na18k&show_icons=true&locale=en&layout=compact&theme=dark" alt="na18k" />
