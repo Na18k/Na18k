@@ -13,7 +13,7 @@
 
 - 📝 Eu escrevo artigos regularmente em [https://github.com/Na18k/](https://github.com/Na18k/)
 
-- 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/1s2GJZHjtpib-nOU3Ld-KbkuzlREYSORG06BQb8qFkkE/edit?usp=sharing)
+- 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/1YMV8PadLab0K-aZDNZK-vwo6bP-MIQwK74GqQ9caCk8/edit?usp=sharing)
 
 - Meu site: [Site](https://na18k.github.io/site/index.html)
 
