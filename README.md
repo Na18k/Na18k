@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Kainan</h1>
 <h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
+<p align="left"> <img src="https:=//komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
 
 - 🔭 Atualmente, estou trabalhando em: Wiki
 
@@ -84,6 +84,8 @@
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=na18k&show_icons=true&locale=en&layout=compact&theme=dark" alt="na18k" />
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" />
 	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
+	<!--START_SECTION:waka-->
+	<!--END_SECTION:waka-->
 </div>
 <br>
 <div align="center">
