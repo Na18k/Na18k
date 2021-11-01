@@ -85,7 +85,10 @@
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" />
 	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
 	<!--START_SECTION:waka-->
-	<!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 </div>
 <br>
 <div align="center">
