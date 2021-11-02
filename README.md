@@ -84,13 +84,10 @@
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=na18k&show_icons=true&locale=en&layout=compact&theme=dark" alt="na18k" />
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" />
 	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
-	<a href="https://wakatime.com"><img align="center" height="400em" src="https://wakatime.com/share/@Na18k/fd627308-749d-4fbe-b25a-eb6c4d869039.png" /></a>
+	<br>
+	<p align="center">WakaTime</p>
+	<a href="https://wakatime.com"><img align="center" height="350em" src="https://wakatime.com/share/@Na18k/2099a1e5-bdbe-4d3f-9281-4cce851c235f.png" /></a>
 </div>
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 <br>
 <div align="center">
 	<p>
