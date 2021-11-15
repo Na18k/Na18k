@@ -2,11 +2,11 @@
 <h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
 
 <h2>Aviso importante:</h2>
-<p>Devido a acontecimentos, estou impossibilidtado de continuar o que fazia, peço desculpas mas terei que me ausentar por tempo inderterminado (se quiser saber mais []).</p>
+<p>Devido a acontecimentos, estou impossibilidtado de continuar o que fazia, peço desculpas mas terei que me ausentar por tempo inderterminado (se quiser saber mais [https://na18k.github.io/site/log_avisos.html]).</p>
 <p>Até mais :)</p>
 <hr>
 
-<p align="left"> <img src="https:-//komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
 
 - 🔭 Atualmente, estou trabalhando em: Wiki
 
