@@ -1,7 +1,12 @@
 <h1 align="center">Olá 👋, eu sou o Kainan</h1>
 <h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
+<h2>Aviso importante:</h2>
+<p>Devido a acontecimentos, estou impossibilidtado de continuar o que fazia, peço desculpas mas terei que me ausentar por tempo inderterminado (se quiser saber mais []).</p>
+<p>Até mais :)</p>
+<hr>
+
+<p align="left"> <img src="https:-//komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
 
 - 🔭 Atualmente, estou trabalhando em: Wiki
 
