@@ -2,7 +2,7 @@
 <h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
 
 <h2>Aviso importante:</h2>
-<p>Devido a acontecimentos, estou impossibilidtado de continuar o que fazia, peço desculpas mas terei que me ausentar por tempo inderterminado (se quiser saber mais [https://na18k.github.io/site/log_avisos.html]).</p>
+<p>Devido a acontecimentos, estou impossibilitado de continuar o que fazia, pois estou sem acesso a dispositivos, e o acesso que possuo não é  o suficiente para continuar; Peço desculpas mas terei que me ausentar por tempo inderterminado .</p>
 <p>Até mais :)</p>
 <hr>
 
