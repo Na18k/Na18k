@@ -93,7 +93,7 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
 	<br>
 	<p align="center">WakaTime</p>
-	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/2099a1e5-bdbe-4d3f-9281-4cce851c235f.png" /></a>
+	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/16db7f12-f96a-4017-9984-09266e65191e.png" /></a>
 	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/d2683931-90f9-4bc9-820b-112ce7693f60.png" /></a>
 </div>
 <br>
