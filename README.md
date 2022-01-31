@@ -2,10 +2,11 @@
 <h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
 
 <h2>Aviso importante:</h2>
-<p>Devido a acontecimentos, estou impossibilitado de continuar o que fazia, pois estou sem acesso a dispositivos, e o acesso que possuo não é  o suficiente para continuar; Peço desculpas mas terei que me ausentar por tempo inderterminado.
+<p>Estou voltando aos poucos com meu projeto <a href="https://github.com/Na18k/History-Dungeon">[History Dungeon]</a></p>
+<!-- <p>Devido a acontecimentos, estou impossibilitado de continuar o que fazia, pois estou sem acesso a dispositivos, e o acesso que possuo não é  o suficiente para continuar; Peço desculpas mas terei que me ausentar por tempo inderterminado.
 	
 Due to events, I am unable to continue what I was doing, as I have no access to devices, and the access I have is not enough to continue; I apologize but I will have to be absent for an indefinite period of time.</p>
-<p>Até mais. Bye :) </p>
+<p>Até mais. Bye :) </p> -->
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
