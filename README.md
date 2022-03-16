@@ -22,7 +22,7 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 - 📝 Eu escrevo artigos regularmente em [https://github.com/Na18k/](https://github.com/Na18k/)
 
 - 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/1YMV8PadLab0K-aZDNZK-vwo6bP-MIQwK74GqQ9caCk8/edit?usp=sharing)
-- 📄 Certificado HTML CSS: [(Certificado)](https://cursos.alura.com.br/user/s-kainan/degree-html-e-css-232036/certificate)
+- 📄 Certificado HTML CSS: [Certificado](https://cursos.alura.com.br/user/s-kainan/degree-html-e-css-232036/certificate) ou veja meu certificado completo: [Certificado Completo](https://cursos.alura.com.br/user/s-kainan/fullCertificate/388d2990d336625354b00ea26c5b2f78)
 
 - Meu site: [Site](https://na18k.github.io/site/index.html)
 
