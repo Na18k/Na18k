@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Kainan</h1>
-<h3 align="center">Alguém que está começando nesse mundo da programação.</h3>
+<h3 align="center">Alguém adora o mundo da programação.  :)</h3>
 
 <h2>Aviso importante:</h2>
 <p>Estou voltando aos poucos com meu projeto <a href="https://github.com/Na18k/History-Dungeon">[History Dungeon]</a></p>
@@ -96,7 +96,10 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 	<br>
 	<p align="center">WakaTime</p>
 	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/16db7f12-f96a-4017-9984-09266e65191e.png" /></a>
+	<p align="center">Uso de linguagem:</p>
 	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/67490520-43ef-4a8e-9b50-2da217cb36bb.png" /></a>
+	<p align="center">Atividade nos últimos 7 Dias:</p>
+	<a href="https://wakatime.com"><img height="300em" src="https://wakatime.com/share/@Na18k/6ecc9175-b3b7-4a4a-942f-d6908cd524d3.png" /></a>
 </div>
 <br>
 <div align="center">
