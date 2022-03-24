@@ -58,6 +58,9 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 	<a href="https://open.spotify.com/user/s21v4nr5vr7q24803q0hume91?si=ac6141677bc24b99" target="blank">
 		<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Kainan Henrique" target="_blank"/>
 	</a>
+	<a href="https://na18k.blogspot.com" target="blank">
+		<img  src="https://img.shields.io/badge/Blog-Na18k-orange?style=for-the-badge&logo=blogger" alt="na18_k" target="_blank"/>
+	</a>
 </div>
 
 <h3 align="left">Linguagem e Ferramentas:</h3>
