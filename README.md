@@ -11,18 +11,18 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
 
-- 🔭 Atualmente, estou trabalhando em: Wiki
+- 🔭 Atualmente, estou trabalhando em: History Dungeon, Python my app.
 
-- 🌱 Atualmente estou aprendendo: **JavaScript, HTML5, CSS...**
+- 🌱 Atualmente estou aprendendo: **Python...**
 
 - 👯 Estou a colaborar em: [Ka 1223](https://github.com/Ka-1223)
 
-- 👨‍💻  Todos os meus projetos estão disponíveis em: [Meus Projetos](https://github.com/Na18k/)
+- 👨‍💻  Todos os meus projetos estão disponíveis em: [Meus Projetos](https://github.com/Na18k?tab=repositories)
 
-- 📝 Eu escrevo artigos regularmente em [https://github.com/Na18k/](https://github.com/Na18k/)
+- 📝 Eu escrevo artigos regularmente em [Blog](https://na18k.blogspot.com)
 
 - 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/1YMV8PadLab0K-aZDNZK-vwo6bP-MIQwK74GqQ9caCk8/edit?usp=sharing)
-- 📄 Certificado HTML CSS: [Certificado](https://cursos.alura.com.br/user/s-kainan/degree-html-e-css-232036/certificate) ou veja meu certificado completo: [Certificado Completo](https://cursos.alura.com.br/user/s-kainan/fullCertificate/388d2990d336625354b00ea26c5b2f78)
+- 📄 Certificado HTML CSS: [Certificado](https://drive.google.com/file/d/1AHdidl37pibU4OM_TsfZZUpzT-LjKOvy/view?usp=sharing) ou veja meu certificado completo: [Certificado Completo](https://cursos.alura.com.br/user/s-kainan/fullCertificate/388d2990d336625354b00ea26c5b2f78)
 
 - Meu site: [Site](https://na18k.github.io/site/index.html)
 
