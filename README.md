@@ -9,7 +9,7 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 <p>Até mais. Bye :) </p> -->
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style= flat" alt="Na18k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
 
 - 🔭 Atualmente, estou trabalhando em: Wiki
 
