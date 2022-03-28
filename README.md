@@ -83,6 +83,9 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
   	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
   	</a> 
+	<a href="https://www.python.org/" target="_blank"> 
+    	<img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python" alt="Notepad++"/> 
+  	</a>
   	<a href="https://www.photoshop.com/en" target="_blank"> 
     	<img src="https://img.shields.io/badge/|-Photoshop-blue?style=for-the-badge&logo=photoshop" alt="photoshop"/> 
  	</a>
