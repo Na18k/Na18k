@@ -64,6 +64,9 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 	<a href="https://stackoverflow.com/users/18490853/kainan-h" target="blank">
 		<img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="na18_k" target="_blank"/>
 	</a>
+	<a href="https://www.patreon.com/na18k" target="blank">
+		<img  src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="na18_k" target="_blank"/>
+	</a>
 <!-- 	https://img.shields.io/badge/Blog-Na18k-orange?style=for-the-badge&logo=blogger -->
 	
 </div>
