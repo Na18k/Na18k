@@ -108,11 +108,11 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" />
 	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
 	<br>
-	<p align="center">WakaTime</p>
+	<h3 align="center">WakaTime</h3>
 	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/16db7f12-f96a-4017-9984-09266e65191e.png" /></a>
-	<p align="center">Uso de linguagem:</p>
-	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/67490520-43ef-4a8e-9b50-2da217cb36bb.png" /></a>
-	<p align="center">Atividade nos últimos 7 Dias:</p>
+	<h4 align="center">Uso de linguagem:</h4>
+	<a href="https://wakatime.com"><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&theme=dark" /></a>
+	<h4 align="center">Atividade nos últimos 7 Dias:</h4>
 	<a href="https://wakatime.com"><img height="300em" src="https://wakatime.com/share/@Na18k/6ecc9175-b3b7-4a4a-942f-d6908cd524d3.png" /></a>
 </div>
 <br>
