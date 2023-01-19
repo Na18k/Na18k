@@ -8,7 +8,7 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 <p>Até mais. Bye :) </p> -->
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> <a href="https://wakatime.com/@439fb2c5-8efb-400d-867e-f14e01d2e748"><img src="https://wakatime.com/badge/user/439fb2c5-8efb-400d-867e-f14e01d2e748.svg" alt="Total time coded since Oct 22 2021" /></a></p>
 
 - 🔭 Atualmente, estou trabalhando em: History Dungeon, Python my app.
 
