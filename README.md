@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Kainan</h1>
 <h3 align="center">Alguém adora o mundo da programação.  :)</h3>
 <hr>
-<h4 align="center">Atualmente: Estudando Python</h4>
+<h4 align="center">Atualmente: Fazendo meus projetos e buscando.</h4>
 <!-- <p>Devido a acontecimentos, estou impossibilitado de continuar o que fazia, pois estou sem acesso a dispositivos, e o acesso que possuo não é  o suficiente para continuar; Peço desculpas mas terei que me ausentar por tempo inderterminado.
 	
 Due to events, I am unable to continue what I was doing, as I have no access to devices, and the access I have is not enough to continue; I apologize but I will have to be absent for an indefinite period of time.</p>
