@@ -14,11 +14,11 @@ Due to events, I am unable to continue what I was doing, as I have no access to 
 
 - 🌱 Atualmente estou aprendendo: **Python...**
 
-- 👯 Estou a colaborar em: [Ka 1223](https://github.com/Ka-1223)
+- 👯 Estou a colaborar em: [Thex 1223](https://github.com/Thex1223)
 
 - 👨‍💻  Todos os meus projetos estão disponíveis em: [Meus Projetos](https://github.com/Na18k?tab=repositories)
 
-- 📝 Eu escrevo artigos regularmente em [Blog](https://na18k.blogspot.com)
+- 📝 Eu escrevo artigos regularmente em [Blog](https://kainanhenriq.blogspot.com)
 
 - 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/18vchFK_LebZtE6AzAFQKnwK18ws7rVsb3EMiJxhRvQQ/edit?usp=sharing)
 - 📄 Certificado HTML CSS: [Certificado](https://drive.google.com/file/d/1AHdidl37pibU4OM_TsfZZUpzT-LjKOvy/view?usp=sharing) ou veja meu certificado completo: [Certificado Completo](https://cursos.alura.com.br/user/s-kainan/fullCertificate/388d2990d336625354b00ea26c5b2f78)
