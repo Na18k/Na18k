@@ -16,7 +16,7 @@
 
 - 📝 Eu escrevo artigos regularmente em [Blog](https://kainanhenriq.blogspot.com)
 
-- 📄 Conheça minhas experiências: [(Currículo)](https://docs.google.com/document/d/18vchFK_LebZtE6AzAFQKnwK18ws7rVsb3EMiJxhRvQQ/edit?usp=sharing)
+- 📄 Conheça minhas experiências: [Currículo - Kainan Henrique Couto dos Santos](https://github.com/Na18k/Na18k/files/15011989/Curriculo.-.Kainan.Henrique.Couto.dos.Santos.pdf)
 - 📄 Certificado HTML CSS: [Certificado](https://drive.google.com/file/d/1AHdidl37pibU4OM_TsfZZUpzT-LjKOvy/view?usp=sharing) ou veja meu certificado completo: [Certificado Completo](https://cursos.alura.com.br/user/s-kainan/fullCertificate/388d2990d336625354b00ea26c5b2f78)
 
 - Meu site: [Site](https://na18k.github.io/site/index.html)
