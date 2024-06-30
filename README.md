@@ -6,9 +6,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Na18k&label=Profile%20views&color=3e00b3&style=flat" alt="Na18k" /> <a href="https://wakatime.com/@439fb2c5-8efb-400d-867e-f14e01d2e748"><img src="https://wakatime.com/badge/user/439fb2c5-8efb-400d-867e-f14e01d2e748.svg" alt="Total time coded since Oct 22 2021" /></a></p>
 
-- 🔭 Atualmente, estou trabalhando em: History Dungeon, Python my app.
+- 🔭 Atualmente, estou fazendo: Engenharia de Software - Faculdade Positivo | Aprendendo Docker, Flutter na Alura.
 
-- 🌱 Atualmente estou aprendendo: **Python...**
+- 🌱 Atualmente estou aprendendo: *Flutter...**
 
 - 👯 Estou a colaborar em: [Thex 1223](https://github.com/Thex1223)
 
@@ -106,7 +106,7 @@
 	<h3 align="center">WakaTime</h3>
 	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/16db7f12-f96a-4017-9984-09266e65191e.png" /></a>
 	<h4 align="center">Uso de linguagem:</h4>
-	<a href="https://wakatime.com"><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&theme=dark" /></a>
+	<a href="https://wakatime.com"><img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&theme=dark" /></a>
 	<h4 align="center">Atividade nos últimos 7 Dias:</h4>
 	<a href="https://wakatime.com"><img height="300em" src="https://wakatime.com/share/@Na18k/6ecc9175-b3b7-4a4a-942f-d6908cd524d3.png" /></a>
 </div>
