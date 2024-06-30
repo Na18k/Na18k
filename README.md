@@ -66,49 +66,27 @@
 	
 </div>
 
-<h3 align="left">Linguagem e Ferramentas:</h3>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kainan) 
 
-<div>
-	<a href="https://www.blender.org/" target="_blank">
-    	<img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender" alt="blender">
- 	</a>
-  	<a href="https://www.w3.org/html/" target="_blank"> 
-    	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
-  	</a> 
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
-    	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5"/> 
-  	</a> 
-  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
-  	</a> 
-	<a href="https://www.python.org/" target="_blank"> 
-    	<img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python" alt="Notepad++"/> 
-  	</a>
-  	<a href="https://www.photoshop.com/en" target="_blank"> 
-    	<img src="https://img.shields.io/badge/|-Photoshop-blue?style=for-the-badge&logo=photoshop" alt="photoshop"/> 
- 	</a>
-  	<a href="https://www.sublimetext.com/" target="_blank"> 
-    	<img src="https://img.shields.io/badge/SublimeText-3-orange?style=for-the-badge&logo=sublimetext" alt="Sublime Text"/>
-  	</a>
-  	<a href="https://notepad-plus-plus.org/" target="_blank"> 
-    	<img src="https://img.shields.io/badge/Notepad-++-green?style=for-the-badge&logo=notepad" alt="Notepad++"/> 
-  	</a>
-<!--   	<a href="https://atom.io/" target="_blank"> 
-    	<img src="https://raw.githubusercontent.com/atom/atom/master/resources/app-icons/stable/atom.ico" alt="Atom" width="40" height="40"/> 
-  	</a> -->
-</div>
+
+
+<h3 align="left">Linguagem e Ferramentas:</h3>
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 <div align="center"><br>
-	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=na18k&show_icons=true&locale=en&layout=compact&theme=dark" alt="na18k" />
-	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&show_icons=true&locale=en&theme=dark" alt="na18k" />
-	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=dark" alt="na18k" />
+	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=na18k&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" alt="na18k" />
+	<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=na18k&theme=ambient_gradient&hide_border=true" alt="na18k" />
+	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=na18k&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="na18k" />
 	<br>
 	<h3 align="center">WakaTime</h3>
 	<a href="https://wakatime.com"><img align="center" height="300em" src="https://wakatime.com/share/@Na18k/16db7f12-f96a-4017-9984-09266e65191e.png" /></a>
 	<h4 align="center">Uso de linguagem:</h4>
-	<a href="https://wakatime.com"><img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&theme=dark" /></a>
+	<a href="https://wakatime.com"><img align="center" height="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&theme=dark" /></a>
 	<h4 align="center">Atividade nos últimos 7 Dias:</h4>
-	<a href="https://wakatime.com"><img height="300em" src="https://wakatime.com/share/@Na18k/6ecc9175-b3b7-4a4a-942f-d6908cd524d3.png" /></a>
+	<a href="https://wakatime.com"><img height="400em" src="https://wakatime.com/share/@Na18k/6ecc9175-b3b7-4a4a-942f-d6908cd524d3.png" /></a>
 </div>
 <br>
 <div align="center">
