@@ -35,5 +35,5 @@
 ## Coding Stats:
 <div align="center">
     <img height="240em" src="https://github-readme-stats.vercel.app/api?username=na18k&theme=radical&show_icons=true" alt="GitHub Stats" />
-    <img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&layout=compact&theme=radical&show_icons=true" alt="WakaTime Stats" />
+    <img height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Na18k&layout=compact&theme=radical&show_icons=true" alt="WakaTime Stats" />
 </div>
