@@ -20,7 +20,8 @@
 ## Skills:
 - **Programming Languages**: Python, JavaScript, HTML5, CSS3
 - **Frameworks**: Flask, Bootstrap
-- **Tools**: Docker (learned), MySQL, Git, Figma
+- **Tools**: Docker, MySQL, Git, Figma, Apache Server
+- **OS**: Windows, Linux, Linux Server
 
 ---
 
